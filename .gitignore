@@ -1,0 +1,18 @@
+# TTS
+report*
+.project
+.pydevproject
+
+# Project specific
+**/*.last
+**/*.log
+**/*.pyc
+**/*.play.rex
+**/*.play.res
+**/*.play.log
+**/*.playconf
+
+*.last
+*.log
+*.rex
+*.pyc
